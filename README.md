@@ -108,3 +108,14 @@ It demonstrates how AI can bridge gaps between platforms, automate insights, and
 
 ![1000048593](https://github.com/user-attachments/assets/f69cfc63-919e-4b81-9e3f-4cc9e57e11ae)
 
+![1000048594](https://github.com/user-attachments/assets/d71b8f17-a57e-4543-83bb-0cf300cb5edc)
+
+
+![1000048595](https://github.com/user-attachments/assets/da54a196-919d-4e6f-9e45-4a4e2152b81d)
+
+![1000048596](https://github.com/user-attachments/assets/53a5e62e-b20b-4e7e-afcb-90438de861ea)
+
+![1000048597](https://github.com/user-attachments/assets/74875577-b7ba-4d13-a7e9-c095c84769c9)
+
+
+
