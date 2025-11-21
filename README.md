@@ -26,7 +26,7 @@ With this platform, developers, QA, and project managers gain a single source of
 🧩 2. Key Features
 📈 Git Commit Analytics
 
-✅ Rich insights from mock/live GitHub data
+✅ Rich insights from GitHub data
 ✅ Date-range filtering
 ✅ Developer-wise commit visualization (Plotly)
 ✅ Auto-correlation between Git commits and JIRA items
