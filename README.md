@@ -102,7 +102,7 @@ Let the LLM generate:
 ✔ release notes
 ✔ team summaries
 
-🙌 8. Conclusion
+🙌 7. Conclusion
 
 This project represents a next-gen engineering productivity tool combining analytics, automation, and artificial intelligence.
 It demonstrates how AI can bridge gaps between platforms, automate insights, and significantly accelerate delivery for development teams.
