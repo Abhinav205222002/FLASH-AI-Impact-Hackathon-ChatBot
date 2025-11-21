@@ -55,6 +55,7 @@ and responds with precise, contextual insights.
 
 
 🏗️ 3. Architecture
+<img width="1536" height="1024" alt="ChatGPT Image Nov 21, 2025, 02_42_46 PM" src="https://github.com/user-attachments/assets/c51d591c-b2bb-4473-a918-50a94f48a29a" />
 
 🚀 4. Execution Guide
 ✅ Install Dependencies
