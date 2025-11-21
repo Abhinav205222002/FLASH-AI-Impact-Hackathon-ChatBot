@@ -28,6 +28,8 @@ This bridges the gap between development and QA, ensuring precise and efficient 
 With this platform, developers, QA, and project managers gain a single source of truth for realtime project insights.
 
 🧩 2. Key Features
+
+
 📈 Git Commit Analytics
 
 ✅ Rich insights from GitHub data
@@ -36,29 +38,22 @@ With this platform, developers, QA, and project managers gain a single source of
 ✅ Auto-correlation between Git commits and JIRA items
 ✅ Helpful for sprint reviews, productivity analysis & reporting
 
+
 🧩 JIRA Issue Tracker
 
 ✅ Developer-wise issue filtering
 ✅ Categorization: Blocked, In Progress, To Do, High Priority
 ✅ Provides structured summaries
 
+
 🤖 AI Chatbot (LLM-Powered)
-Uses LLM intelligence to provide natural-language answers like:
 
-“Show commits linked with JIRA-110”
-“What issues are blocking Sachin this week?”
-“Which developer contributed most between 10–20 October?”
-
-The LLM reads from both:
-
-Git commit logs
-
-JIRA dataset
-
-and responds with precise, contextual insights.
+Our project integrates a powerful Large Language Model (LLM) to provide natural-language intelligence across Git , JIRA workflows and Regression Test Case Generation analyzing code changes and commit metadata.
+Instead of manually searching dashboards or logs, users simply ask questions, and the chatbot responds instantly with precise, context-aware insights.
 
 
 🏗️ 3. Architecture
+
 <img width="1536" height="1024" alt="ChatGPT Image Nov 21, 2025, 02_42_46 PM" src="https://github.com/user-attachments/assets/c51d591c-b2bb-4473-a918-50a94f48a29a" />
 
 🚀 4. Execution Guide
@@ -87,6 +82,7 @@ The LLM transforms raw project data into structured intelligence:
 ✅ explains progress
 ✅ correlates issues with commits
 ✅ provides actionable insights
+✅ Regression Test Case Generation
 
 🔮 6. Future Scope
 
