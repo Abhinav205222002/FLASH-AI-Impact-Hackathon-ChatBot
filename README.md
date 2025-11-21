@@ -30,3 +30,30 @@ With this platform, developers, QA, and project managers gain a single source of
 ✅ Date-range filtering
 ✅ Developer-wise commit visualization (Plotly)
 ✅ Auto-correlation between Git commits and JIRA items
+✅ Helpful for sprint reviews, productivity analysis & reporting
+
+🧩 JIRA Issue Tracker
+
+✅ Developer-wise issue filtering
+✅ Categorization: Blocked, In Progress, To Do, High Priority
+✅ Provides structured summaries
+
+🤖 AI Chatbot (LLM-Powered)
+Uses LLM intelligence to provide natural-language answers like:
+
+“Show commits linked with JIRA-110”
+“What issues are blocking Sachin this week?”
+“Which developer contributed most between 10–20 October?”
+
+The LLM reads from both:
+
+Git commit logs
+
+JIRA dataset
+
+and responds with precise, contextual insights.
+
+
+🏗️ 3. Architecture
+
+
