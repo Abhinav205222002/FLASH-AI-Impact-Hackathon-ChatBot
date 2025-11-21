@@ -105,3 +105,6 @@ Let the LLM generate:
 
 This project represents a next-gen engineering productivity tool combining analytics, automation, and artificial intelligence.
 It demonstrates how AI can bridge gaps between platforms, automate insights, and significantly accelerate delivery for development teams.
+
+![1000048593](https://github.com/user-attachments/assets/f69cfc63-919e-4b81-9e3f-4cc9e57e11ae)
+
